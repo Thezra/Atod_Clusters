@@ -27,7 +27,8 @@ This documentation provides a comprehensive solution for the technical evaluatio
 
 ### Flow chart
 
-![Alt text](Atod_Clusters\Atod_Clusters_Map.png)
+![Atod Clusters Map](Atod_Clusters\Atod_Clusters_Map.png)
+*If the Flow Chart is not showing there is an image of it inside the respective exercise folder*
 
 ---
 
@@ -50,7 +51,8 @@ peril.
 
 ### Flow chart
 
-![Alt text](Miranda_And_Arrows\Miranda_And_Arrows_Map.png)
+![Miranda And Arrows Map](Miranda_And_Arrows\Miranda_And_Arrows_Map.png)
+*If the Flow Chart is not showing there is an image of it inside the respective exercise folder*
 
 ---
 
